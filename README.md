@@ -38,6 +38,7 @@
 You can download compiled versions of the client from the [releases page](https://github.com/Plutoberth/SonyHeadphonesClient/releases).
 
 **Note:** If you're getting an error like `VCRUNTIME140_1.dll was not found`, you need to install the `Microsoft VC++ Redistributable`.
+**Running on Linux:** Enable executable properties for the script, either by right click > permission > Allow executing as program, or running ```sudo chmod +x ./SonyHeadphonesClient```
 
 ## Motivation
 
